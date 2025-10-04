@@ -9,11 +9,12 @@
 	font-weight: 400;
 	font-family: 'Lato', sans-serif;
 	background-color: var(--color-accent);
+	box-shadow: 0 0 0 0 transparent;
 }
 
 .btn:hover,
 .btn:focus-visible {
-	outline: 2px solid var(--color-accent-alt);
+	box-shadow: 0 0 0 2px var(--color-accent-alt);
 	cursor: pointer;
 }
 
