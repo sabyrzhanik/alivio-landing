@@ -47,6 +47,9 @@
 }
 
 @media (max-width: 768px) {
+	.header__wrapper {
+		padding: 0 0 0 45px;
+	}
 	.header__nav {
 		display: none;
 	}
