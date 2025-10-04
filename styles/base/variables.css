@@ -5,12 +5,12 @@
 	--color-accent: #01996d;
 	--color-accent-alt: #245852;
 
-	--font-family: "Lato", sans-serif;
+	--font-family: 'Lato', sans-serif;
 
 	--container-width: 1400px;
 	--container-padding-x: 15px;
 
 	--transition-duration: 0.2s;
 
-	/* Media Queries: 992px, 768px, 576px */
+	/* media breakpoints: 992px, 768px, 576px, 480px */
 }
