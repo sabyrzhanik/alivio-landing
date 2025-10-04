@@ -6,6 +6,8 @@
 
 @import './components/logo.css';
 @import './components/button.css';
+@import './components/card.css';
 
 @import './layout/header.css';
 @import './layout/hero.css';
+@import './layout/about.css';
